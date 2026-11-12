@@ -49,11 +49,12 @@
   
 
 
-//const double = x => x * 2
-//console.log(double(4))
+const double = x => x * 2
+console.log(double(4))
 
 
-
+const subtract = (num1, num2) => num2 - num1;
+console.log(subtract(5, 6))
 
 
 //function greet(name = "friend"){

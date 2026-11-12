@@ -1,0 +1,35 @@
+body{
+    background-color: #f3e6d8;
+}
+
+.container{
+   background-color: #ffffff;
+    height: 2000;
+    width: 35%;
+    margin: 70px auto;
+
+}
+.wait-time{
+background-color: #e4dcdf;
+}
+
+.image-selt{
+   /* padding-top: 40px; */
+   width: 277px;
+ 
+}
+
+.inside-div{
+    background-color: rgb(229, 236, 237);
+    margin: 30px;
+    
+}
+
+h2{
+    color: #854632;
+}
+
+h3{
+    color: #7b284f;
+}
+
